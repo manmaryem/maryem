@@ -1,4 +1,8 @@
 
+![image](https://github.com/manmaryem/maryem/assets/137881827/b27d8323-1129-47a8-9966-357da659b76a)
+
+ [I'm an inline-style link](https://www.google.com)
+
 # Technicienne Superieur Système et Réseau # 
 _Passionnée par l'informatique et la sécurité des données, je suis actuellement en
 reconversion professionnelle et à la recherche d'un stage de 3 à 6 mois pour acquérir
